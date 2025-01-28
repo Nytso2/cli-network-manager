@@ -1,5 +1,5 @@
 """
-Author: lyk64
+Author: lyk64 & Nytso2
 Date: 2024-05-09
 Version: 1.0
 
