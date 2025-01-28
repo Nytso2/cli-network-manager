@@ -45,6 +45,7 @@ This command-line network manager is a Python program designed to manage network
 
 ## Contributors
 - Creator: [lyk64](https://github.com/lyk64)
+- Contributor: [Nytso2](https://github.com/Nytso2)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
